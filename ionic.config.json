@@ -1,0 +1,7 @@
+{
+  "name": "Atividades_PAM",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
